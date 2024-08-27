@@ -4,9 +4,9 @@ const Header = () => {
            <h1 className="header__titulo">Animales</h1>
            <nav>
                 <ul>
-                    <li><a href="#acuaticos">Acuáticos</a></li>
-                    <li><a href="#aereos">Aéreos</a></li>
-                    <li><a href="#terrestres">Terrestres</a></li>
+                    <li><a href="https://concepto.de/animales-acuaticos/" target="_blank">Acuáticos</a></li>
+                    <li><a href="https://concepto.de/animales-aereos/" target="_blank">Aéreos</a></li>
+                    <li><a href="https://concepto.de/animales-terrestres/" target="_blank">Terrestres</a></li>
                 </ul>
            </nav>
         </header>

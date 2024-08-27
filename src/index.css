@@ -81,7 +81,10 @@ aside ul {
 
 aside ul li {
   margin-bottom: 10px;
+  text-align: justify;
+  padding: 5px;
 }
+
 
 main {
 flex: 1 1 70%;

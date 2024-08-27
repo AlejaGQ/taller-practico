@@ -5,9 +5,10 @@ const Content = () => {
             <h2>Sabías que...</h2>
             <ul>
                 <li><strong>Delfín: </strong>Los Delfines duermen con un ojo cerrado y el otro abierto.</li>
-                <li><strong>Cóndor: </strong>Puede volar más de 300 km en un solo día</li>
-                <li><strong>Jaguar: </strong>A los jaguares les encanta nadar</li>
-                <li><strong>Coral: </strong>Los corales son animales</li>
+                <li><strong>Cóndor: </strong>Puede volar más de 300 km en un solo día.</li>
+                <li><strong>Jaguar: </strong>A los jaguares les encanta nadar.</li>
+                <li><strong>Coral: </strong>Los corales son animales.</li>
+                <li><strong>Hienas: </strong>Son depredadores eficientes capaces de digerir huesos, cuernos e incluso los dientes de sus presas.</li>
             </ul>
         </aside>
         <main>
